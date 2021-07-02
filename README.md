@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ### 🧡 I’m currently working on some react and android project
 ### 🐱‍🚀 I’m currently learning about spring boot
-### ✌  I’m looking to collaborate on android project or application and software developement 
+### ✌  I’m looking to collaborate on android and windows developement  
 ### 🐱‍👤 Ask me about java spring and react 
 ### 👾 How to reach me at telegram/snippy066
