@@ -1,4 +1,4 @@
-### Hi there 👋
+####Hi there 👋
 
 <!--
 **snippy066/snippy066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## .🧡 I’m currently working on some react and android project
-### .🐱‍🚀 I’m currently learning about spring boot
-### .✌  I’m looking to collaborate on android and windows developement  
-### .🐱‍👤 Ask me about java spring and react 
-### .👾 reach me at telegram/snippy066
+#### .🧡 I’m currently working on some react and android project
+#### .🐱‍🚀 I’m currently learning about spring boot
+#### .✌  I’m looking to collaborate on android and windows developement  
+#### .🐱‍👤 Ask me about java spring and react 
+#### .👾 reach me at telegram/snippy066
