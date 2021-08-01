@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 #### .🐱‍👤 Ask me about java spring and react 
 #### - 📫 How to reach me **priyankathakur221206@gmail.com**
 
-<p align="center">
-  <img src="https://github.com/snippy066/snippy066/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
+![snippy's GitHub stats](https://github-readme-stats.vercel.app/api?username=snippy066&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snipp066&layout=compact&theme=onedark)](https://github.com/snippy066/github-readme-stats)
