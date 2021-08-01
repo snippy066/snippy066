@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 #### .🐱‍🚀 I’m currently learning about spring boot
 #### .✌  I’m looking to collaborate on android and windows developement  
 #### .🐱‍👤 Ask me about java spring and react 
-#### - 📫 How to reach me **priyankathakur221206@gmail.com**
+#### - 📫 Reach me through : **priyankathakur221206@gmail.com**
 
 
 ![snippy's GitHub stats](https://github-readme-stats.vercel.app/api?username=snippy066&show_icons=true&theme=onedark)
