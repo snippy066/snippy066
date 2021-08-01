@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=snippy066" alt="snippy066" style="color:green"/> </p>
+ [![HitCount](https://github.com/snippy066.svg)](https://github.com/snippy066)
 
 #### .🧡 I’m currently working on some react and android project
 #### .🐱‍🚀 I’m currently learning about spring boot
