@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4 align="center">Visitor's count #1F607</h4>
+<h4 align="center">Visitor's count &#1F607</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{snippy066}/count.svg" alt="priyanka thakur:: Visitor's Count" /></p>
 
 #### .🧡 I’m currently working on some react and android project
