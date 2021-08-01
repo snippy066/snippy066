@@ -21,4 +21,8 @@ Here are some ideas to get you started:
 #### .🐱‍🚀 I’m currently learning about spring boot
 #### .✌  I’m looking to collaborate on android and windows developement  
 #### .🐱‍👤 Ask me about java spring and react 
-#### .👾 reach me at telegram/snippy066
+#### - 📫 How to reach me **priyankathakur221206@gmail.com**
+
+<p align="center">
+  <img src="https://github.com/snippy066/snippy066/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
