@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snippy066&label=Profile%20views&color=#2eb37e&style=flat" alt="priyanka thakur" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=snippy066&label=Profile%20views&color=2eb37e&style=flat" alt="priyanka thakur" /> </p>
 
 #### .🧡 I’m currently working on some react and android project
 #### .🐱‍🚀 I’m currently learning about spring boot
