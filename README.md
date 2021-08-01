@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h4 align="center">Visitor's count</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{Aaayushidas}/count.svg" alt="Aaayushidas:: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{snippy066}/count.svg" alt="priyanka thakur:: Visitor's Count" /></p>
 
 #### .🧡 I’m currently working on some react and android project
 #### .🐱‍🚀 I’m currently learning about spring boot
