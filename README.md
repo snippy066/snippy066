@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h4 align="center">Visitor's count</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{Aaayushidas}/count.svg" alt="Aaayushidas:: Visitor's Count" /></p>
+
 #### .🧡 I’m currently working on some react and android project
 #### .🐱‍🚀 I’m currently learning about spring boot
 #### .✌  I’m looking to collaborate on android and windows developement  
