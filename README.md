@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 #### - 📫 Reach me through : **priyankathakur221206@gmail.com**
 
 
-![snippy's GitHub stats](https://github-readme-stats.vercel.app/api?username=snippy066&show_icons=true&theme=onedark)
+<!-- ![snippy's GitHub stats](https://github-readme-stats.vercel.app/api?username=snippy066&show_icons=true&theme=onedark) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snippy066&layout=compact&theme=onedark)](https://github.com/snippy066/github-readme-stats)
