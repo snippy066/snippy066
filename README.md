@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left" style="color:green"> <img src="https://komarev.com/ghpvc/?username=snippy066" alt="snippy066" /> </p>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=snippy066" alt="snippy066" style="color:green"/> </p>
 
 #### .🧡 I’m currently working on some react and android project
 #### .🐱‍🚀 I’m currently learning about spring boot
