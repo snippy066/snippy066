@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 #### - 📫 Reach me through : <a href="https://www.linkedin.com/in/priyanka-thakur-0b5853175/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:priyankathakur221206@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/snippy066"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/snippy066"><img src="https://img.shields.io/badge/-@snippy066-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 ### 🛠 &nbsp;Tech Stack
 
