@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)&nbs;
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)&nbsp;
 ![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
