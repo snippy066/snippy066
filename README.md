@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 #### .🐱‍👤 Ask me about java spring and react 
 
 
-<!-- (https://drive.google.com/file/d/1afbv800g3TX2AakstNGqxsSqJV5sE38S/view?usp=sharing)//resume link -->
 
-📄 &nbsp;You can check my [Resume] for more details about work experience.
+
+<!-- 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1afbv800g3TX2AakstNGqxsSqJV5sE38S/view?usp=sharing) for more details about work experience. -->
 
 #### .📫 Reach me through : 
 <a href="https://www.linkedin.com/in/priyanka-thakur-0b5853175/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
