@@ -17,16 +17,20 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snippy066&label=Profile%20views&color=2eb37e&style=flat" alt="profile views" /> </p>
 
-#### .🧡 I’m currently working on some react and android project
-#### .🐱‍🚀 I’m currently learning about spring boot
-#### .✌  I’m looking to collaborate on android and windows developement  
-#### .🐱‍👤 Ask me about java spring and react 
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 >&nbsp;I'm pursuing B.tech(Computer Science and Engineering) at University Of Lucknow Faculty Of Engineering, Lucknow.\
 >&nbsp;I'm on track for learning more about Game Developement.\
 >&nbsp;In my free time, I watch anime or listen music.
+
+
+
+#### .🧡 I’m currently working on some react and android project
+#### .🐱‍🚀 I’m currently learning about spring boot
+#### .✌  I’m looking to collaborate on android and windows developement  
+#### .🐱‍👤 Ask me about java spring and react 
+
+
 
 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1afbv800g3TX2AakstNGqxsSqJV5sE38S/view?usp=sharing) for more details about work experience.
 
@@ -58,4 +62,4 @@ Here are some ideas to get you started:
 
 
 <!-- ![snippy's GitHub stats](https://github-readme-stats.vercel.app/api?username=snippy066&show_icons=true&theme=onedark) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snippy066&layout=compact&theme=onedark)](https://github.com/snippy066/github-readme-stats)
+[![Top Langs]<div align="center">(https://github-readme-stats.vercel.app/api/top-langs/?username=snippy066&layout=compact&theme=onedark)](https://github.com/snippy066/github-readme-stats)</div>
