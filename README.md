@@ -34,12 +34,12 @@ Here are some ideas to get you started:
 
 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1afbv800g3TX2AakstNGqxsSqJV5sE38S/view?usp=sharing) for more details about work experience.
 
-#### - 📫 Reach me through : 
+#### .📫 Reach me through : 
 <a href="https://www.linkedin.com/in/priyanka-thakur-0b5853175/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:priyankathakur221206@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/snippy066"><img src="https://img.shields.io/badge/-@snippy066-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;My Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?&logo=Spring)&nbsp;
@@ -62,4 +62,4 @@ Here are some ideas to get you started:
 
 
 <!-- ![snippy's GitHub stats](https://github-readme-stats.vercel.app/api?username=snippy066&show_icons=true&theme=onedark) -->
-[![Top Langs]<div align="center">(https://github-readme-stats.vercel.app/api/top-langs/?username=snippy066&layout=compact&theme=onedark)](https://github.com/snippy066/github-readme-stats)</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snippy066&layout=compact&theme=onedark)](https://github.com/snippy066/github-readme-stats)
