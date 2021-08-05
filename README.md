@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 
->&nbsp;I'm currently studying Computer Science and Engineering at University Of Lucknow Faculty Of Engineering.\
->&nbsp;I'm on track for learning more about Game Developement.\
+>&nbsp;I'm currently B.tech(Computer Science and Engineering) at University Of Lucknow Faculty Of Engineering.
+>&nbsp;I'm on track for learning more about Game Developement.
 >&nbsp;In my free time, I watch anime or listen music.
 
 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1afbv800g3TX2AakstNGqxsSqJV5sE38S/view?usp=sharing) for more details about work experience.
