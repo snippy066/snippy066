@@ -38,13 +38,13 @@ Here are some ideas to get you started:
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?&logo=Spring)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![React](https://img.shields.io/badge/-React-000?&logo=React)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?&logo=React)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2305122A.svg?style=flae&logo=mysql&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![PHP](https://img.shields.io/badge/php-%2305122A.svg?style=flat&logo=php&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
+![Intellij](https://img.shields.io/badge/-Intellij-05122A?style=flat&logo=Intellij-ide&logoColor=2C2255)&nbsp;
 ![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=NetBeans-ide&logoColor=2C2255)&nbsp;
 
 
