@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snippy066&label=Profile%20views&color=2eb37e&style=flat" alt="profile views" /> </p>
 
-### 👨🏻‍💻 &nbsp;About Me
+#### 🤖&nbsp;About Me
 
 >&nbsp;I'm pursuing B.tech(Computer Science and Engineering) at University Of Lucknow Faculty Of Engineering, Lucknow.\
 >&nbsp;I'm on track for learning more about Game Developement.\
