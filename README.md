@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 #### 🤖&nbsp;About Me
 
 >&nbsp;<i>I'm pursuing B.tech(Computer Science and Engineering) at University Of Lucknow Faculty Of Engineering, Lucknow.\
->&nbsp; I'm on track for learning more about Game Developement.\
->&nbsp; In my free time, I watch anime or listen music.</i>
+>&nbsp;I'm on track for learning more about Game Developement.\
+>&nbsp;In my free time, I watch anime or listen music.</i>
 
 
 
