@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 #### 🤖&nbsp;About Me
 
-***>&nbsp;I'm pursuing B.tech(Computer Science and Engineering) at University Of Lucknow Faculty Of Engineering, Lucknow.\
->&nbsp;I'm on track for learning more about Game Developement.\
->&nbsp;In my free time, I watch anime or listen music. ***
+>&nbsp;<i>I'm pursuing B.tech(Computer Science and Engineering) at University Of Lucknow Faculty Of Engineering, Lucknow.\</i>
+>&nbsp;<i>I'm on track for learning more about Game Developement.\</i>
+>&nbsp;<i>In my free time, I watch anime or listen music.</i>
 
 
 
