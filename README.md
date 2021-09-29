@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![Intellij](https://img.shields.io/badge/-Intellij-05122A?style=flat&logo=Intellij-ide&logoColor=2C2255)&nbsp;
 ![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=NetBeans-ide&logoColor=2C2255)&nbsp;
+![tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=Tailwind-ide&logoColor=2C2255)&nbsp;
 
 
 <!-- ![snippy's GitHub stats](https://github-readme-stats.vercel.app/api?username=snippy066&show_icons=true&theme=onedark) -->
