@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 #### .🧡 I’m currently working on some react and android project
 #### .🐱‍🚀 I’m currently learning about spring boot
-#### .✌  I’m looking to collaborate on android and windows developement  
-#### .🐱‍👤 Ask me about java spring and react 
+#### .✌  I’m looking to collaborate on android ,software developement and full stack 
+#### .🐱‍👤 Ask me about nothing :)
 
 
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 #### .📫 Reach me through : 
 <a href="https://www.linkedin.com/in/priyanka-thakur-0b5853175/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:priyankathakur221206@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/snippy066"><img src="https://img.shields.io/badge/-@snippy066-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<!-- <a href="https://instagram.com/snippy066"><img src="https://img.shields.io/badge/-@snippy066-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp; -->
 
 ### 🛠 &nbsp;My Tech Stack
 
