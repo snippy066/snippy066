@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 #### .🧡 I’m currently working on some react and android project
 #### .🚀 I’m currently learning about spring boot
 #### .✌  I’m looking to collaborate on android ,software developement and full stack 
-#### .🐱‍👤 Ask me about nothing :)
+#### .👤 Ask me about nothing :)
 
 
 
