@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 #### 🤖&nbsp;About Me
 
->&nbsp;<i>SDE\
+>&nbsp;<i>SDE
+<!--   \ -->
 <!-- >&nbsp;I'm on track for learning more about Game Developement.\ -->
 >&nbsp;In my free time, I watch anime or listen music.</i>
 
