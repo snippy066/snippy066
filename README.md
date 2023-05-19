@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snippy066&label=Profile%20views&color=2eb37e&style=flat" alt="profile views" /> </p>
 
-#### 🤖&nbsp;About Me
+<!-- #### 🤖&nbsp;About Me -->
 
->&nbsp;<i>SDE
+<!-- >&nbsp;<i>SDE -->
 <!--   \ -->
 <!-- >&nbsp;I'm on track for learning more about Game Developement.\ -->
->&nbsp;In my free time, I watch anime or listen music.</i>
+<!-- >&nbsp;In my free time, I watch anime or listen music.</i> -->
 
 
 
